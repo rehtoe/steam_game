@@ -1,3 +1,5 @@
+__name__ = "pixeldata"
+
 class PixelMetaData:
     x : int
     y : int
